@@ -29,4 +29,4 @@ class MyClient(discord.Client):
                await message.channel.send("I didnt get that. Can you explain or try again.".format(message))
 
 client = MyClient()
-client.run('ODQ3NDc4ODQyMjI1NDU5MjEw.YK-qLQ.PwmWxwGmCDRfxb0jM5jjutT3OGc')
+client.run('ODQ3NDc4ODQyMjI1NDU5MjEw.YK-qLQ.oHI0uQROqZVUuquMBhkIvU9BXOM')
